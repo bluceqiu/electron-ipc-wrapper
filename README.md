@@ -26,3 +26,8 @@ ipcWrapper.off('test-channel', listenerFunction);
 ipcWrapper.removeAllListeners('test-channel');
 
 ```
+
+# TODO
+1. lib 打包输出
+2. 支持 promise、async await
+3. 测试用例
